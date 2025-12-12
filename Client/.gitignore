@@ -37,7 +37,10 @@ yarn-error.log
 testem.log
 /typings
 __screenshots__/
-*.pem
+
 # System files
 .DS_Store
 Thumbs.db
+
+# Security
+/ssl/*.pem
